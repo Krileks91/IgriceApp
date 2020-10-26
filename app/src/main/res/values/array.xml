@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="izmena_ImenaUnos">
+        <item>Igra 1</item>
+        <item>Igra 2</item>
+        <item>Igra 3</item>
+        <item>Igra 4</item>
+    </string-array>
+
+    <string-array name="izmena_ImenaVrednost">
+        <item>Igra 1</item>
+        <item>Igra 2</item>
+        <item>Igra 3</item>
+        <item>Igra 4</item>
+    </string-array>
+
+    <string-array name="izmena_KonzolaUnos">
+        <item>Konzola 1</item>
+        <item>Konzola 2</item>
+        <item>Konzola 3</item>
+        <item>Konzola 4</item>
+    </string-array>
+
+    <string-array name="izmena_KonzolaVrednost">
+        <item>Konzola 1</item>
+        <item>Konzola 2</item>
+        <item>Konzola 3</item>
+        <item>Konzola 4</item>
+    </string-array>
+
+</resources>
